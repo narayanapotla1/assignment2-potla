@@ -12,4 +12,6 @@ ___
 ### My other favorite teams:
 * Royal Challengers Bengaluru
 * Mumbai Indians
-* Delhi Capitals
+* Delhi Capitals  
+  
+[Click here to know AboutMe](https://github.com/narayanapotla1/assignment2-potla/blob/main/AboutMe.md)
