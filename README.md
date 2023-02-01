@@ -25,3 +25,7 @@ Travelling have always been my way to relax myself,top 4 countries i recommend t
 |Canada        | Banff  |5 days           |
 |United States| Maui    |7 days           |
 |France       | Paris          |8 days           |
+___
+## My Favorite funny quotes
+1. `"Anyone who lives within their means suffers from a lack of imagination."` ---- by  ** Oscar Wilde **
+2. `"Trying is the step toward failure"` ---- by ** Homer Simpson **
