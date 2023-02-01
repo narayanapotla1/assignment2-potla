@@ -28,6 +28,7 @@ Travelling have always been my way to relax myself,top 4 countries i recommend t
 ___
 ## My Favorite funny quotes
 > Anyone who lives within their means suffers from a lack of imagination. ---- by  * Oscar Wilde *
+
 > Trying is the step toward failure ---- by * Homer Simpson *
 ___
 ## Sample HtaAccess Code Snippet
