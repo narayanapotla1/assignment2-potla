@@ -29,3 +29,11 @@ ___
 ## My Favorite funny quotes
 1. `"Anyone who lives within their means suffers from a lack of imagination."` ---- by  ** Oscar Wilde **
 2. `"Trying is the step toward failure"` ---- by ** Homer Simpson **
+___
+## Sample HtaAccess Code Snippet
+> HTTP redirect: 301 (permanent) vs. 302 (temporary): <https://stackoverflow.com/questions/41161594/spa-asp-net-core-architecture/41162973#41162973>
+```
+Redirect 301 /oldpage.html http://www.yoursite.com/newpage.html
+Redirect 301 /oldpage2.html http://www.yoursite.com/folder/
+```
+[Click here for Snippet reference Source URL](https://css-tricks.com/snippets/htaccess/301-redirects/)
