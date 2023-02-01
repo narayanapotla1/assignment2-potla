@@ -15,3 +15,13 @@ ___
 * Delhi Capitals  
   
 [Click here to know AboutMe](https://github.com/narayanapotla1/assignment2-potla/blob/main/AboutMe.md)
+___
+## My most recommended countries to visit
+
+Travelling have always been my way to relax myself,top 4 countries i recommend to travel are listed below:
+|**Countries**|**Why to go**       |**days to visit**|
+|-------------|-----------------|-----------------|
+|Germany       | Berlin     |10 days           |
+|Canada        | Banff  |5 days           |
+|United States| Maui    |7 days           |
+|France       | Paris          |8 days           |
