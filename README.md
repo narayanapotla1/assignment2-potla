@@ -27,8 +27,8 @@ Travelling have always been my way to relax myself,top 4 countries i recommend t
 |France       | Paris          |8 days           |
 ___
 ## My Favorite funny quotes
-1. `"Anyone who lives within their means suffers from a lack of imagination."` ---- by  ** Oscar Wilde **
-2. `"Trying is the step toward failure"` ---- by ** Homer Simpson **
+> Anyone who lives within their means suffers from a lack of imagination. ---- by  * Oscar Wilde *
+> Trying is the step toward failure ---- by * Homer Simpson *
 ___
 ## Sample HtaAccess Code Snippet
 > HTTP redirect: 301 (permanent) vs. 302 (temporary): <https://stackoverflow.com/questions/41161594/spa-asp-net-core-architecture/41162973#41162973>
